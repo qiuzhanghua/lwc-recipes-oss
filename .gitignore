@@ -1,3 +1,8 @@
+.idea
+.vscode
+
+pnpm-lock.yaml
+
 # Log files
 logs
 *.log
